@@ -15,5 +15,5 @@ Clean OOP design using multiple classes
 
 How to Run
 1. Open the project in any Java IDE (Eclipse/IntelliJ).
-2. Navigate to src/com/Library/Main.java
+2. Navigate to src/com/Library/app/Main.java
 3. Run the Main class.
